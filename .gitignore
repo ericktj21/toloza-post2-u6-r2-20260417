@@ -1,0 +1,9 @@
+﻿# Build artifacts
+/target/
+
+# IDE
+/.idea/
+/.vscode/
+
+# Logs
+*.log
