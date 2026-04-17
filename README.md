@@ -28,3 +28,5 @@ Extension de U6 Post 1 con login, control de sesion, validaciones por campo y ca
 
 ## Entrega GitHub
 Nombre sugerido: `apellido-post2-u6`
+
+Publicacion independiente r2: 2026-04-17 07:26:43
