@@ -29,4 +29,16 @@ Extension de U6 Post 1 con login, control de sesion, validaciones por campo y ca
 ## Entrega GitHub
 Nombre sugerido: `apellido-post2-u6`
 
-Publicacion independiente r2: 2026-04-17 07:26:43
+## Capturas de Pantalla de la Aplicación
+
+**1. Sistema de Autenticación (Login):**
+![Login del sistema](img/captura-login.png)
+
+**2. Validaciones Robustas en el Servidor:**
+![Validaciones de formulario](img/captura-validacion.png)
+
+**3. Soporte de Internacionalización (Español):**
+![Vista en Español](img/captura-espanol.png)
+
+**4. Soporte de Internacionalización (Inglés):**
+![Vista en Inglés](img/captura-ingles.png)
